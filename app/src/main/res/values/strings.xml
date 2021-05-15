@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Pet Diary</string>
+    <string name="add_a_new_pet">Add a new pet</string>
+    <string name="my_pets">My Pets</string>
+    <string name="my_pet_diary">My Pet Diary</string>
+    <string name="training">training</string>
+    <string name="tipps">Tipps</string>
+    <string name="cattips">TODO</string>
+    <string name="tipps_and_tricks">Tipps and Tricks</string>
+    <string name="launches_settings">launches Settings</string>
+    <string name="name">Name</string>
+    <string name="trainingName">Training Name</string>
+    <string name="prerequisites">prerequisites</string>
+    <string name="method">method</string>
+    <string name="dogTippName" />
+    <string name="DogTipp" />
+    <string name="DogTippName" />
+    <string name="dogtippName" />
+    <string name="cattippName" />
+    <string name="CatTippName" />
+    <string name="want_some_tips">Want some tips?</string>
+    <string name="cattipps">TODO</string>
+    <string name="dogtipps">TODO</string>
+    <string name="dogsbtn">DOGS</string>
+    <string name="catsbtn">CATS</string>
+    <string name="training1" />
+    <string name="dogview1" />
+    <string name="catview1" />
+</resources>
